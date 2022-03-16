@@ -1,0 +1,15 @@
+AMD Ryzen 5:
+Importing Tensorflow: 12s 3ms
+SARCASMDETECTOR.IPYNB
+    Tokenizing: 1s 70ms
+    Model Defining: 43ms
+    Model Training [200epoch]: 16m 21s 52ms
+    Model Training [100epoch]: 12m 22s 35ms
+    Model Training [50epoch]: 06m 22s 75ms
+TEXTGENERATOR.IPYNB
+    Tokenizing and padding:
+    Model Training [200epoch]: 5m 17s 27ms
+    Model Training [100epoch]: 2m 27s 08ms
+    Model Training [200epoch]: 1m 31s 25ms
+
+
